@@ -27,7 +27,6 @@
         <TextView
             android:layout_width="400dp"
             android:layout_height="150dp"
-            android:layout_marginLeft="32dp"
             android:layout_marginTop="150dp"
             android:fontFamily="cursive"
             android:text="@string/question2"
@@ -38,7 +37,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="cursive"
-            android:layout_marginLeft="32dp"
             android:text="@string/question2part2"
             android:textColor="@color/white"
             android:textSize="35dp"
@@ -65,7 +63,7 @@
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/option1q1"
+                android:id="@+id/option1q2"
                 android:layout_marginTop="350dp"
                 android:text="x, x, x"
                 android:textSize="40dp"
@@ -73,21 +71,21 @@
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/option2q1"
+                android:id="@+id/option2q2"
                 android:text="-, +, x"
                 android:textSize="40dp"
                 android:textColor="@color/white"/>
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/option3q1"
+                android:id="@+id/option3q2"
                 android:text="x, +, x"
                 android:textSize="40dp"
                 android:textColor="@color/white"/>
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/option4q1"
+                android:id="@+id/option4q2"
                 android:text="+, -, +"
                 android:textSize="40dp"
                 android:textColor="@color/white"/>
