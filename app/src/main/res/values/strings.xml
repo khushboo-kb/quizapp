@@ -7,4 +7,8 @@
     -->
     <string name="hello_world">Hello Square World!</string>
     <string name="level1">WELCOME TO LEVEL 1</string>
+    <string name="question1">1. If A+B=2C and C+D=2A, then:</string>
+    <string name="question2">2. Select the correctset of symbols which will fit in the given equation?</string>
+    <string name="question2part2">5 0 3 5=20</string>
+
 </resources>
