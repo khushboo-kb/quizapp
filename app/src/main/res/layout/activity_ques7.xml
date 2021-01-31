@@ -25,14 +25,14 @@
         tools:ignore="MissingConstraints">
 
         <TextView
-            android:layout_width="400dp"
+            android:layout_width="wrap_content"
             android:layout_height="150dp"
-            android:layout_marginLeft="32dp"
+            android:layout_marginLeft="10dp"
             android:layout_marginTop="150dp"
             android:fontFamily="cursive"
-            android:text="@string/question1"
+            android:text="@string/question7"
             android:textColor="@color/white"
-            android:textSize="50dp"
+            android:textSize="40dp"
             android:textStyle="bold" />
 
         <Button
@@ -56,30 +56,30 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/option1q1"
-            android:layout_marginTop="300dp"
-            android:text="A+C=B+D"
+            android:id="@+id/option1q7"
+            android:layout_marginTop="250dp"
+            android:text="Laces"
             android:textSize="40dp"
             android:textColor="@color/white"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/option2q1"
-            android:text="A+C=2D"
+            android:id="@+id/option2q7"
+            android:text="Leather"
             android:textSize="40dp"
             android:textColor="@color/white"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/option3q1"
-            android:text="A+D=B+C"
+            android:id="@+id/option3q7"
+            android:text="Strap"
             android:textSize="40dp"
             android:textColor="@color/white"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/option4q1"
-            android:text="A+C=2B"
+            android:id="@+id/option4q7"
+            android:text="Soles"
             android:textSize="40dp"
             android:textColor="@color/white"/>
 

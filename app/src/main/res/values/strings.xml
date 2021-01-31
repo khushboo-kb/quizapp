@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">My Application</string>
     <string name="title_activity_page2">page2</string>
     <!--
@@ -10,6 +10,14 @@
     <string name="question1">1. If A+B=2C and C+D=2A, then:</string>
     <string name="question2">2. Select the correctset of symbols which will fit in the given equation?</string>
     <string name="question2part2">5 0 3 5=20</string>
-
+     <string name="question3" tools:ignore="StringEscaping">3. A is B's sister. C is B's mother. D is C's father. E is D's mother. Then how is A related to D?</string>
+     <string name="question4">4. In a certain code language COMPUTER is written as RFUVQNPC. How will MEDICINE be written in that code language? </string>
+    <string name="question5">5. If you write down all the numbers from 1 to 100, then how many times do you write 3?</string>
+    <string name="question6">6. Pointing towards a lady, Neeraj said: "she is the only daughter of the only child of my grandmother" How is the lady related to Neeraj?</string>
+    <string name="question7">7. Shoe always has ___</string>
+    <string name="question8">8. The day before yedterday was Saturday. What day it will be the day after tomorrow?</string>
+    <string name="question9">9. In a maths class riki divides 60 chalk sticks by half and add fifteen. What answer does she show the class?</string>
+    <string name="question10part1">10. Choose the most meaningful sequence for the following words.</string>
+    <string name="question10part2">1.Job 2.Independence 3.Study 4.Income 5.Exam</string>
 
 </resources>

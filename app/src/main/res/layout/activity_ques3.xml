@@ -25,14 +25,14 @@
         tools:ignore="MissingConstraints">
 
         <TextView
-            android:layout_width="400dp"
-            android:layout_height="150dp"
-            android:layout_marginLeft="32dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
             android:layout_marginTop="150dp"
             android:fontFamily="cursive"
-            android:text="@string/question1"
+            android:text="@string/question3"
             android:textColor="@color/white"
-            android:textSize="50dp"
+            android:textSize="40dp"
             android:textStyle="bold" />
 
         <Button
@@ -43,7 +43,8 @@
             android:layout_marginTop="320dp"
             android:text="next"
             android:textColor="@color/white"
-            android:textSize="35dp" />
+            android:textSize="35dp"
+            android:textStyle="bold"/>
 
 
     </LinearLayout>
@@ -57,30 +58,30 @@
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/option1q1"
-            android:layout_marginTop="300dp"
-            android:text="A+C=B+D"
+            android:id="@+id/option1q3"
+            android:layout_marginTop="350dp"
+            android:text="Grandfather"
             android:textSize="40dp"
             android:textColor="@color/white"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/option2q1"
-            android:text="A+C=2D"
+            android:id="@+id/option2q3"
+            android:text="Grandmother"
             android:textSize="40dp"
             android:textColor="@color/white"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/option3q1"
-            android:text="A+D=B+C"
+            android:id="@+id/option3q3"
+            android:text="Daughter"
             android:textSize="40dp"
             android:textColor="@color/white"/>
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/option4q1"
-            android:text="A+C=2B"
+            android:id="@+id/option4q3"
+            android:text="Granddaughter"
             android:textSize="40dp"
             android:textColor="@color/white"/>
 
